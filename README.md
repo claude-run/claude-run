@@ -3,8 +3,7 @@
 ### 🚀 About Me
 
 - 💻 I love Programming
-- 🌐 Tribute to Web Development
-- � Passionate about Data Analysis
+- 🌐 Passionate about Web Development & Data Analysis
 - 📫 Reach me at: clauderun18@gmail.com
 
 ---
